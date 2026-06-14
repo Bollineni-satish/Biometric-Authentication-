@@ -1,13 +1,6 @@
 # 🔐 Biometric Authentication System
 
 A comprehensive Python-based biometric authentication system combining **facial recognition** and **hand gesture recognition** for secure multi-factor authentication. The system includes attendance logging, user registration, and real-time verification capabilities.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-green.svg)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-
 ## 📋 Table of Contents
 
 - [Features](#features)
